@@ -38,7 +38,7 @@ We are an open organization, and we believe our strength lies in our diversity o
 
 ## 📫 Connect With Us
 
-* **Website:** [communityone.com](https://wwww.communityone.com) *(Coming Soon)*
+* **Website:** [communityone.com](https://wwww.communityone.com)  
 * **Discussions:** Join our [GitHub Discussions](#) to share ideas.
 * **Support:** Open an issue in our `https://github.com/getcommunityone/open-navigator` repo for organization-wide inquiries.
 
